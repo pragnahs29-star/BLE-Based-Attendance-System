@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sdtt_project_1
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# BLE-Based-Attendance-System
+>>>>>>> 8cfc138c0e22447db56f26f35aca95fdb07215cb
